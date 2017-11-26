@@ -1,0 +1,156 @@
+RegistrarWHOISServer#whois.tucows.com
+RegistrarIANAID#69
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#
+RegistrarURL#http://www.tucowsdomains.com
+RegistrarAbuseContactEmail#
+DNSSEC#unsigned
+DomainName#A--ACADEMY.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-04-25T07:07:46Z
+RegistryDomainID#2117520841_DOMAIN_COM-VRSN
+Registrar#Tucows Domains Inc.
+#
+RegistrarWHOISServer#whois.register.com
+RegistrarIANAID#9
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+1.8003337680
+RegistrarURL#http://www.register.com
+RegistrarAbuseContactEmail#abuse@web.com
+DNSSEC#unsigned
+DomainName#A-GRICI.COM
+DomainStatus#clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+CreationDate#2017-06-20T17:43:21Z
+RegistryDomainID#2135463206_DOMAIN_COM-VRSN
+Registrar#Register.com, Inc.
+#
+RegistrarWHOISServer#whois.godaddy.com
+RegistrarIANAID#146
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#480-624-2505
+RegistrarURL#http://www.godaddy.com
+RegistrarAbuseContactEmail#abuse@godaddy.com
+DNSSEC#unsigned
+DomainName#A-MEDS.COM
+DomainStatus#redemptionPeriod https://icann.org/epp#redemptionPeriod
+CreationDate#2015-07-02T20:37:54Z
+RegistryDomainID#1944148812_DOMAIN_COM-VRSN
+Registrar#GoDaddy.com, LLC
+#
+RegistrarWHOISServer#whois.pheenix.com
+RegistrarIANAID#888
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#
+RegistrarURL#http://www.pheenix.com
+RegistrarAbuseContactEmail#
+DNSSEC#unsigned
+DomainName#A-PILLS.COM
+DomainStatus#clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+CreationDate#2016-09-03T11:40:28Z
+RegistryDomainID#2057001902_DOMAIN_COM-VRSN
+Registrar#Pheenix. Inc.
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A0EFBAJW-WPM.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-03-04T08:01:15Z
+RegistryDomainID#2102164984_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A0GC-X6F.NET
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-05-11T12:00:29Z
+RegistryDomainID#2123079069_DOMAIN_NET-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.godaddy.com
+RegistrarIANAID#146
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#480-624-2505
+RegistrarURL#http://www.godaddy.com
+RegistrarAbuseContactEmail#abuse@godaddy.com
+DNSSEC#unsigned
+DomainName#A10B.COM
+DomainStatus#clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+CreationDate#2017-07-18T17:26:47Z
+RegistryDomainID#2144325220_DOMAIN_COM-VRSN
+Registrar#GoDaddy.com, LLC
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A13541B335.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-02-16T08:15:30Z
+RegistryDomainID#2098109141_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A1354D3-2F4.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-02-14T07:41:37Z
+RegistryDomainID#2097600946_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A1793XT-BQI.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2016-11-24T09:31:45Z
+RegistryDomainID#2076535758_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A1A7ZA56FF.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-07-19T05:50:25Z
+RegistryDomainID#2144604034_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
+RegistrarWHOISServer#whois.discount-domain.com
+RegistrarIANAID#49
+LastupdateofWHOISdatabase#
+RegistrarAbuseContactPhone#+81.337709199
+RegistrarURL#http://www.onamae.com/
+RegistrarAbuseContactEmail#abuse@gmo.jp
+DNSSEC#unsigned
+DomainName#A1B3B53CBE.COM
+DomainStatus#ok https://icann.org/epp#ok
+CreationDate#2017-02-16T08:31:00Z
+RegistryDomainID#2098110486_DOMAIN_COM-VRSN
+Registrar#GMO Internet, Inc. dba Onamae.com
+#
